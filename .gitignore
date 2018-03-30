@@ -1,0 +1,5 @@
+node_modules
+collector/facebook/config.js
+collector/instagram/cookies/*
+collector/instagram/images/*
+.DS_Store

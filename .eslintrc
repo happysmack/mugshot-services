@@ -1,0 +1,13 @@
+{
+	"parserOptions": {
+		"ecmaVersion": 6
+	},
+	"globals": {
+		"Promise": true,
+		"module": true,
+		"require": true,
+		"process": true,
+		"__dirname": true
+	},
+	"extends": "eslint:recommended"
+}
